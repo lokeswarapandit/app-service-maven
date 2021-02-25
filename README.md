@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/lokeswarapandit0131/yaml/_apis/build/status/lokeswarapandit.app-service-maven?branchName=master)](https://dev.azure.com/lokeswarapandit0131/yaml/_build/latest?definitionId=2&branchName=master)
+
 # Sample Java webapp with Maven configuration to deploy to Azure App Service
 
 The code in this repo is a very simple JSP web application with some additional Maven configuration that's ready to deploy into Azure App Service. To build the application from the command line and run it locally:
